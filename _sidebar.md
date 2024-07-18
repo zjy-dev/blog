@@ -1,2 +1,2 @@
-- [Read Me](README)
-- [Example Second Page](second-page)
+- [AI编程助手](AI编程助手)
+- [Git](git)
