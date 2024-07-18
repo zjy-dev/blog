@@ -1,4 +1,4 @@
-# [zjy-dev](https://github.com/zjy-dev)的博客
+# [ZJY](https://github.com/zjy-dev)的博客
 
 > 目前在国内某985读研, 自学 go 语言, 软件开发工具链, 区块链, and more... 
 > 此博客记录并分享我学习的过程, 每一个我所学的知识都会附上我开辟出的学习路径, 希望能帮助你走的更快更稳
