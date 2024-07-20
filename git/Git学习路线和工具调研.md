@@ -45,7 +45,7 @@ Github Desktop 在尚硅谷的[新视频](https://www.bilibili.com/video/BV1wm4y
 <footer>
 ```
 
-我参考了很多超大型仓库(甚至包括 go 语言的仓库), `<type>(<scope>): <subject>是最常用的 commit 格式, 其他的部分用的很少.
+我参考了很多超大型仓库(甚至包括 go 语言的仓库), `<type>(<scope>): <subject>`是最常用的 commit 格式, 其他的部分用的很少.
 
-而每次都手写这些 commit message 很容易格式出错, 因此我找了一个 [vscode 插件](https://marketplace.visualstudio.com/items?itemName=redjue.git-commit-plugin), 它可以帮我们生成格式化的 message, 而且有好看的小表情, 非常好用, 1.2. Git Graph 配图中的 commit message 就是我用这个插件编写的.
+而每次都手写这些 commit message 很容易格式出错, 因此我找了一个 [vscode 插件](https://marketplace.visualstudio.com/items?itemName=redjue.git-commit-plugin), 它可以帮我们生成格式化的 message, 而且有好看的小表情, 非常好用, `1.2. Git Graph` 配图中的 commit message 就是我用这个插件编写的.
 
